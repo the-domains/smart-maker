@@ -1,0 +1,23 @@
+name: SMART Maker
+favicon: null
+layout_spectrum: 0.8894584004301578
+typography_spectrum: 0.875417688395828
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.2739075419958681
+  lightness: 0.4640300124883652
+  saturation: 0.3718110234476626
+  rhythmicContrast: 0.28315324150025845
+purpose: []

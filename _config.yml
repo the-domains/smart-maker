@@ -1,7 +1,8 @@
 name: SMART Maker
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0
+typography_spectrum: 0.5
+title: 'Space for Makers Artisans Revolutionists & Techies'
 cta:
   domain: null
   bucket: null

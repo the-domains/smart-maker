@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Space for Makers Artisans Revolutionists & Techies]]></title>
+        <description><![CDATA[Space for Makers Artisans Revolutionists & Techies]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 16 Nov 2015 21:51:39 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="This past weekend SoHa SMART spent a few days at our local Barnes &amp; Noble in Cherry Hill&comma; NJ to host a Mini Maker Faire&period; This was s free event where everyone got to see what making and the maker movement is all about&period; We had a spectacular time making with young and old&period;" src="https://scontent.xx.fbcdn.net/hphotos-xtf1/t31.0-8/s720x720/886032_546391488844010_7175231851553752300_o.jpg">]]></description>
+            <link>https://www.facebook.com/media/set/?set=a.546388552177637.1073741878.159837554166074&amp;type=3</link>
+            <guid isPermaLink="false">9ec63b90-4922-4a97-b277-d2654d39d936</guid>
+            <pubDate>Mon, 16 Nov 2015 21:51:28 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
